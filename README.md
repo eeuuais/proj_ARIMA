@@ -11,4 +11,4 @@ Updated at : 02/18/2022</h5>
 
 
 <h2 id="project 1"> 자동차 가격 예측분석 </h2>
-[프로젝트 내용 바로가기](https://codesaho.notion.site/0cdc7a00a17a49e3bcae52deab375eb4?pvs=4)
+- 프로젝트 내용 : [바로가기](https://codesaho.notion.site/0cdc7a00a17a49e3bcae52deab375eb4?pvs=4)
